@@ -38,8 +38,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 ### Installation
 Clone this repository:
 ```bash
-git clone https://github.com/iskburcin/1.IrishFlowerClassification.git
-cd iris-flower-classification
+git clone https://github.com/lokesh9297/Irish-Flower-Classification.git
 ```
 Open `iris_classification.ipynb` in Jupyter Notebook.
 
